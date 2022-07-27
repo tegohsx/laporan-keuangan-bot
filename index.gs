@@ -53,7 +53,7 @@ function commands(update) {
 
 
 			if (harga && kategori && item) {
-				insert_result = insert_value([
+				insert_value([
 					tanggal,
 					kategori,
 					item,
