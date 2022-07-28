@@ -3,8 +3,8 @@ var BOT_TOKEN = "1234567890:abcdefghijklmnopqrstuvwxyz" //BOT TOKEN ANDA
 var SS_URL = "https://docs.google.com/spreadsheets/d/abcdefghijklmnopq/edit#gid=0" //URL SPREADSHEET
 var SHEET_NAME = "laporan" //NAMA SHEET
 var USERS = [
-	894865211,
-	716924185
+	173739838,
+	183837728
 ] //CHAT ID, bisa lebih dari 1
 
 
