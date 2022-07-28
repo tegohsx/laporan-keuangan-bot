@@ -32,6 +32,13 @@ Laporan keuangan, pencatatan pengeluaran dengan Bot Telegram yang terintegrasi d
 Untuk mendapatkan Chat ID, buka telegram, search @getYourID_bot atau https://t.me/getyourid_bot
 
 
-# Contact
+## Contact
 Telegram: https://t.me/mastgh <br>
 WhatsApp: +62 851-5541-1484
+
+## Donasi
+Paypal tegohsx@gmail.com <br>
+BRI 000401061441500 <br>
+Jago 100310049829 <br>
+DANA/GOPAY 085290465350 <br>
+a/n Teguh S
