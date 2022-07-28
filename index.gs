@@ -43,7 +43,6 @@ function commands(update) {
 			let item,
 				harga,
 				kategori,
-				insert_result = {},
 				stext = text.split(' ')
 
 			harga = eval(stext[1]);
