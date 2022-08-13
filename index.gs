@@ -1,7 +1,7 @@
 //CONFIG
 var BOT_TOKEN = "1234567890:abcdefghijklmnopqrstuvwxyz" //BOT TOKEN ANDA
-var SS_URL = "https://docs.google.com/spreadsheets/d/abcdefghijklmnopq/edit#gid=0" //URL SPREADSHEET
-var SHEET_NAME = "laporan" //NAMA SHEET
+var SS_ID = "abcdefghijklmnopq" //ID SPREADSHEET , bisa dilihat pada url spreadsheet https://docs.google.com/spreadsheets/d/[ID SPREADSHEET ANDA]/edit#gid=0
+
 var USERS = [
 	173739838,
 	183837728
@@ -9,7 +9,7 @@ var USERS = [
 
 
 //BEGIN
-var SHEET = SpreadsheetApp.openByUrl(SS_URL).getSheetByName(SHEET_NAME);
+var SHEET = SpreadsheetApp.openById(SS_ID);
 
 function doGet(e) {
 	return HtmlService.createHtmlOutput('<h1>OK</h1>')
