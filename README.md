@@ -6,7 +6,7 @@ Laporan keuangan, pencataan pemasukan dan pengeluaran dengan Bot Telegram yang t
 ### Yang ada di bot
 1. Input pemasukan: <code>/masuk [nominal] [#kategori] [item1, item2, keterangan dsb.]</code> <br>
    Contoh:  <br>
-      /keluar 100000 #gaji angkut barang <br>
+      /masuk 100000 #gaji angkut barang <br>
 2. Input pengeluaran: <code>/keluar [nominal] [#kategori] [item1, item2, keterangan dsb.]</code> <br>
    Contoh:  <br>
       /keluar 50000 #makan roti dan kopi <br>
