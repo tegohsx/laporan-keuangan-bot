@@ -29,13 +29,14 @@ Laporan keuangan, pencataan pemasukan dan pengeluaran dengan Bot Telegram yang t
 
 ## Buat Spreadsheet
 Buat dua sheet untuk pemasukan dan pengeluaran dengan kolom:
-1. ID
-2. Tanggal
-3. Kategori
-4. Item
-5. Nominal
-6. ReporterID
-7. ReporterName
+1. _id
+2. _date
+3. Tanggal
+4. Kategori
+5. Item
+6. Nominal
+7. ReporterID
+8. ReporterName
 
 ## Buat Apps Script
 1. Copy Kode.gs
