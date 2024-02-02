@@ -1,4 +1,6 @@
 # laporan-keuangan-bot
+[![Version](https://img.shields.io/badge/Version-2.0.1-green)]()
+[![Beta](https://img.shields.io/badge/Beta-orange)]()<br>
 Laporan keuangan, pencataan pemasukan dan pengeluaran dengan Bot Telegram yang terintegrasi dengan Google Spreadsheet
 
 ### Yang ada di bot
