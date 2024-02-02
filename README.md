@@ -2,19 +2,19 @@
 Laporan keuangan, pencataan pemasukkan dan pengeluaran dengan Bot Telegram yang terintegrasi dengan Google Spreadsheet
 
 ### Yang ada di bot
-1. Input pemasukan: /masuk [nominal] [#kategori] [item1, item2, keterangan dsb.]
-   Contoh: 
-      /keluar 100000 #gaji angkut barang
-2. Input pengeluaran: /keluar [nominal] [#kategori] [item1, item2, keterangan dsb.]
-   Contoh: 
-      /keluar 50000 #makan roti dan kopi
-3. Rekapitulasi: /rekap [tanggal/bulan] [tanggal/bulan (opsional)]
-   Tanggal dan bulan berformat YYYY-MM-DD dan YYYY-MM
-   Contoh: 
-      /rekap 2024-02-01
-      /rekap 2024-02-01 2024-02-10
-      /rekap 2024-02
-      /rekap 2024-02 2024-06
+1. Input pemasukan: /masuk [nominal] [#kategori] [item1, item2, keterangan dsb.] <br>
+   Contoh:  <br>
+      /keluar 100000 #gaji angkut barang <br>
+2. Input pengeluaran: /keluar [nominal] [#kategori] [item1, item2, keterangan dsb.] <br>
+   Contoh:  <br>
+      /keluar 50000 #makan roti dan kopi <br>
+3. Rekapitulasi: /rekap [tanggal/bulan] [tanggal/bulan (opsional)] <br>
+   Tanggal dan bulan berformat YYYY-MM-DD dan YYYY-MM <br>
+   Contoh: <br>
+      /rekap 2024-02-01<br>
+      /rekap 2024-02-01 2024-02-10<br>
+      /rekap 2024-02<br>
+      /rekap 2024-02 2024-06<br>
 
 
 # Mulai
@@ -32,7 +32,7 @@ Laporan keuangan, pencataan pemasukkan dan pengeluaran dengan Bot Telegram yang 
 4. Item
 5. Nominal
 6. ReporterID
-7. ReportterName
+7. ReporterName
 
 ## Buat Apps Script
 1. Copy Kode.gs
