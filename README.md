@@ -25,7 +25,8 @@ Laporan keuangan, pencataan pemasukkan dan pengeluaran dengan Bot Telegram yang 
 3. Masukkan nama kemudian username.
 4. Setelah berhasil maka akan mendapatkan Bot Token.
 
-## Buat Spreadsheet dan buat dua sheet untuk pemasukan dan pengeluaran dengan kolom:
+## Buat Spreadsheet
+Buat dua sheet untuk pemasukan dan pengeluaran dengan kolom:
 1. ID
 2. Tanggal
 3. Kategori
