@@ -1,6 +1,6 @@
 //CONFIG
-var BOT_TOKEN = "6642440695:AAFRAWN3nXcuJf5xJkSQLhyJgQXGag08cLc" //BOT TOKEN ANDA
-var SS_URL = "https://docs.google.com/spreadsheets/d/1LABhvsBXZ8lJ3tzvx8DyYrFWwtRxlQsWQEFzdsyignw/edit#gid=0" //URL SPREADSHEET
+var BOT_TOKEN = "6642440655:AADRAWN3nXcuJf5xJkSQLhyJgQXGag08cLc" //BOT TOKEN ANDA
+var SS_URL = "https://docs.google.com/spreadsheets/d/1LArhvsBXZ8lJ3tzvx8DyYrFWwtRxlQsWQEFzdsyignw/edit#gid=0" //URL SPREADSHEET
 var CREDIT_SHEET_NAME = "Pemasukan" //NAMA SHEET PEMASUKAN
 var DEBIT_SHEET_NAME = "Pengeluaran" //NAMA SHEET PENGELUARAN
 
