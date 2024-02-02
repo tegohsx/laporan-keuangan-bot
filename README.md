@@ -1,5 +1,5 @@
 # laporan-keuangan-bot
-Laporan keuangan, pencataan pemasukkan dan pengeluaran dengan Bot Telegram yang terintegrasi dengan Google Spreadsheet
+Laporan keuangan, pencataan pemasukan dan pengeluaran dengan Bot Telegram yang terintegrasi dengan Google Spreadsheet
 
 ### Yang ada di bot
 1. Input pemasukan: <code>/masuk [nominal] [#kategori] [item1, item2, keterangan dsb.]</code> <br>
@@ -46,7 +46,7 @@ Buat dua sheet untuk pemasukan dan pengeluaran dengan kolom:
 Sesuaikan ChatID* dengan user yang akan menggunakan bot, bisa lebih dari satu, pisahkan dengan koma.
 
 ## *Note:
-Untuk mendapatkan Chat ID, buka telegram, search @getYourID_bot atau https://t.me/getyourid_bot
+Untuk mendapatkan Chat ID, buka telegram, search <code>@getYourID_bot</code> atau https://t.me/getyourid_bot
 
 
 ## Contact
