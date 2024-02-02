@@ -42,7 +42,7 @@ Buat dua sheet untuk pemasukan dan pengeluaran dengan kolom:
 4. Deploy sebagai Web app, dan simpan URL-nya
 
 ## Set webhook Bot Telegram
-1. Buka di browser https://api.telegram.org/bot[token]/setwebhook?url=[url hasil deploy]?users=ChatID1,ChatID2,...
+1. Buka di browser <code>https[]()://api.telegram.org/bot[token]/setwebhook?url=[url hasil deploy]?users=ChatID1,ChatID2,...</code><br>
 Sesuaikan ChatID* dengan user yang akan menggunakan bot, bisa lebih dari satu, pisahkan dengan koma.
 
 ## *Note:
