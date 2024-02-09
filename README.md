@@ -3,6 +3,13 @@
 [![Beta](https://img.shields.io/badge/Beta-orange)]()<br>
 Laporan keuangan, pencataan pemasukan dan pengeluaran dengan Bot Telegram yang terintegrasi dengan Google Spreadsheet
 
+### Video Tutorial
+https://youtu.be/sII577Ubv-E
+
+<br>
+<img src="https://github.com/tegohsx/laporan-keuangan-bot/assets/101353193/d8aaafe8-62f6-45a0-bf8c-7934f61c7d3b" width="50%">
+
+
 ### Yang ada di bot
 1. Input pemasukan: <code>/masuk [nominal] [#kategori] [item1, item2, keterangan dsb.]</code> <br>
    Contoh:  <br>
