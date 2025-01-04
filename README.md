@@ -61,7 +61,7 @@ Untuk mendapatkan Chat ID, buka telegram, search <code>@getYourID_bot</code> ata
 
 ## Contact
 Telegram: https://t.me/mastgh <br>
-WhatsApp: +62 851-5541-1484
+WhatsApp: +62 855-1000-113
 
 ## Donasi
 Paypal tegohsx@gmail.com <br>
